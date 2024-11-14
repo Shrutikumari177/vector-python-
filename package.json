@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cfenv": "^1.2.4",
+    "pip": "^0.0.1",
+    "python": "^0.0.4",
+    "requests": "^0.3.0"
+  }
+}

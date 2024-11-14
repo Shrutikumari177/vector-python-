@@ -1,0 +1,7 @@
+### Test the Vectorization API
+POST http://localhost:8080/vectorize
+Content-Type: application/json
+
+{
+  "text": "shruti"
+}
